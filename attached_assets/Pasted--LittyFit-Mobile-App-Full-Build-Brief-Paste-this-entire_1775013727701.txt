@@ -1,0 +1,410 @@
+# LittyFit Mobile App — Full Build Brief
+## Paste this entire file as your first message in the new Expo/React Native Replit project.
+
+---
+
+## What You Are Building
+
+**LittyFit** is a standalone fitness and wellness mobile app for iOS and Android. It is the mobile companion to **Littyverse** — a full creative universe platform with its own cryptocurrency called **Littkoin (LTK)**. Users earn real LTK tokens by completing workouts, yoga sessions, and hitting hydration goals.
+
+The app must be submission-ready for **Apple App Store** and **Google Play Store**.
+
+The backend already exists and is fully deployed at:
+EXPO_PUBLIC_API_URL=https://[FILL IN YOUR DEPLOYED LITTYVERSE URL]
+
+Replace the URL above with your actual deployed Littyverse Replit app URL before building.
+
+---
+
+## Tech Stack
+
+- Framework: Expo (React Native) with TypeScript
+- Navigation: Expo Router (file-based) with bottom tabs
+- State/Data: TanStack React Query (@tanstack/react-query)
+- Auth Storage: expo-secure-store
+- Haptics: expo-haptics (on button presses, completions, rewards)
+- Icons: @expo/vector-icons (Ionicons)
+- Animations: React Native's built-in Animated API + react-native-reanimated
+- HTTP: Native fetch with a shared apiFetch() helper (see Auth section)
+
+Install these packages first:
+npx expo install expo-secure-store expo-haptics @tanstack/react-query react-native-reanimated
+
+---
+
+## Design System
+
+### Colors (use these exact values everywhere)
+export const Colors = {
+  bg:           '#0a0a0f',
+  card:         '#0f0f1a',
+  cardBorder:   '#1a1a2e',
+  purple:       '#7c3aed',
+  purpleLight:  '#a78bfa',
+  amber:        '#f59e0b',
+  amberLight:   '#fcd34d',
+  green:        '#10b981',
+  red:          '#ef4444',
+  textPrimary:  '#ffffff',
+  textSecondary:'#a1a1aa',
+  textMuted:    '#52525b',
+  gradientHero: ['#7c3aed', '#6d28d9', '#b45309'],
+};
+
+### Typography
+- Font: Outfit (weights 400, 600, 700, 900) via expo-font, fallback to System font
+- Headlines: bold/black, white
+- Body: regular, textSecondary
+- Labels: uppercase, letter-spacing, textMuted
+
+### Style Rules
+- Cards: borderRadius 20, bg Colors.card, border Colors.cardBorder
+- Buttons: borderRadius 14, bg Colors.purple, white text, bold font
+- Gradient headers on each tab (purple to amber)
+- Bottom tab bar: bg Colors.bg, active Colors.purpleLight, inactive Colors.textMuted
+- Status bar: dark style on all screens
+- No emoji in UI — use Ionicons instead
+- Haptic feedback on every significant tap (Haptics.impactAsync)
+
+---
+
+## App Navigation Structure
+
+### Bottom Tabs (5 tabs)
+Tab 1: Home       — icon: home-outline / home
+Tab 2: Workouts   — icon: barbell-outline / barbell
+Tab 3: Yoga       — icon: flower-outline / flower
+Tab 4: Nutrition  — icon: nutrition-outline / nutrition
+Tab 5: Profile    — icon: person-outline / person
+
+### Stack screens (navigate from tabs)
+- WorkoutSession — full-screen active timer, launched from Workouts
+- YogaSession    — full-screen pose guide, launched from Yoga
+- Progress       — accessible from Profile tab
+
+### Auth screens (shown before tabs if not logged in)
+- LoginScreen
+- RegisterScreen
+- OnboardingScreen — 5-step wizard after first registration
+
+---
+
+## Screen Specs
+
+### LoginScreen
+- Full dark screen, LittyFit logo + "LF" gradient badge at top
+- Two inputs: Username or Email, Password
+- "Sign In" button (full width, purple gradient)
+- Link to RegisterScreen
+- On success: store JWT token, navigate to Home (or Onboarding if no profile)
+- Show inline error on 401
+
+### RegisterScreen
+- Fields: Username, Email, Password, optional Referral Code
+- "Create Account" button
+- Link back to LoginScreen
+- On success: store token, go to Onboarding
+
+### Onboarding — 5-step wizard
+Step 1: Goal — pick one: Lose Weight / Build Muscle / Improve Energy / Get Consistent / Just Move
+Step 2: Level — Beginner / Intermediate / Advanced
+Step 3: Preference — Home / Gym / Bodyweight / Mixed
+Step 4: Interests — multi-select: Yoga, Stretching, Nutrition, Cardio, Strength, Recovery
+Step 5: Daily Minutes — buttons: 15 / 20 / 30 / 45 / 60 min/day
+Save to POST /api/littyfit/profile on completion, then go to Home tab.
+
+### Home Tab
+- Gradient hero card with "LittyFit" title + random quote from LITTY_QUOTES array
+- Stats row: Total Workouts | Total Yoga | LTK Earned | Streak (from /api/littyfit/stats)
+- Active program card (if set): name, current day, "Continue" button → WorkoutSession
+- Quick action buttons: Start Workout, Start Yoga
+- LTK balance (amber, prominent) from /api/ltk/balance/:userId
+
+### Workouts Tab
+- Scrollable list of all 10 workout programs (static WORKOUT_PROGRAMS data)
+- Each card: emoji, title, subtitle, level badge (green/amber/red), days/week, weeks, total LTK
+- Active program highlighted with purple ring
+- Tap a card → expand to show day list with exercises
+- "Start Day X" button → WorkoutSession screen
+- "Set as My Program" → POST /api/littyfit/profile with currentProgramId
+
+### WorkoutSession (full screen)
+- Shows current day's exercise list with countdown timer per exercise
+- Rest timer between exercises
+- Progress bar across top
+- Exercise name, sets/reps, instructions shown
+- Skip and Next buttons
+- On full completion: reward modal (+50 LTK), call POST /api/littyfit/workouts/complete with verified: true
+- "I did it my way" button: completes with verified: false (+20 LTK)
+- Big haptic feedback on full session complete
+
+### Yoga Tab
+- Grid of 6 yoga flows (static YOGA_FLOWS data)
+- Each card: emoji, title, subtitle, duration, level, LTK reward
+- Tap → show pose list + "Begin Flow" button → YogaSession
+
+### YogaSession (full screen)
+- Current pose name, instructions, breath cue
+- Timer per pose (pose.duration seconds)
+- "Next Pose" / auto-advance
+- Progress indicator (pose X of Y)
+- On completion: reward modal (+25 LTK), call POST /api/littyfit/yoga/complete
+- Haptic on each pose transition
+
+### Nutrition Tab
+- Today's macro progress bars: Calories, Protein, Carbs, Fats (targets from profile)
+- Hydration tracker: 8 glass icons, tap to fill, at 8 glasses award +10 LTK
+- "Log Today's Food" form: calorie, protein, carbs, fats inputs → POST /api/littyfit/nutrition
+- Diet Plans: horizontal scroll list of 6 plans from static data, tap to see full meal breakdown
+
+### Profile Tab
+- Avatar (initials fallback), username, email
+- LTK balance (large, amber) from /api/ltk/balance/:userId
+- Stats grid: Total Workouts, Total Yoga, Streak, LTK Earned
+- "View Progress" → Progress screen
+- LTK History list from /api/ltk/history/:userId (last 10)
+- Logout button (clears SecureStore token, returns to Login)
+
+### Progress Screen
+- Weight log chart (line) over time
+- Energy and mood trend (1-5 scale, colored dots)
+- "Log Today" form: weight (lbs), energy (1-5), mood (1-5), notes
+- POST /api/littyfit/progress to save, GET /api/littyfit/progress for history
+
+---
+
+## Complete API Reference
+
+Base URL: process.env.EXPO_PUBLIC_API_URL
+
+### apiFetch helper — create this in lib/api.ts
+import * as SecureStore from 'expo-secure-store';
+const API_BASE = process.env.EXPO_PUBLIC_API_URL ?? '';
+export async function apiFetch(path, options) {
+  const token = await SecureStore.getItemAsync('ltk_token');
+  return fetch(API_BASE + path, {
+    ...options,
+    headers: {
+      'Content-Type': 'application/json',
+      ...(token ? { Authorization: 'Bearer ' + token } : {}),
+      ...(options?.headers ?? {}),
+    },
+  });
+}
+
+### Auth
+
+POST /api/auth/mobile-login
+Body: { identifier: "username_or_email", password: "string" }
+Response 200: { token: "eyJ...", user: { id, username, email, firstName, profileImageUrl } }
+Response 401: { message: "Invalid credentials" }
+→ Store token with: SecureStore.setItemAsync('ltk_token', token)
+
+GET /api/auth/mobile-me
+Header: Authorization: Bearer <token>
+Response 200: { id, username, email, firstName, profileImageUrl }
+Response 401: token expired → show login
+
+POST /api/auth/register
+Body: { username, email, password, firstName }
+Response 200: user object (follow up with mobile-login to get token)
+
+### LittyFit Profile
+GET  /api/littyfit/profile  → profile object or null (null = show onboarding)
+POST /api/littyfit/profile
+  Body: { goal, level, preference, interests[], dailyMinutes, currentProgramId, currentDay,
+          calorieTarget, proteinTarget, hydrationTarget }
+
+### Workouts
+POST /api/littyfit/workouts/complete
+  Body: { programId, dayIndex, durationSeconds, verified: boolean }
+  Response: { ok: true, ltkEarned: 50 (verified) | 20 (honor) }
+
+GET /api/littyfit/workouts/history
+  Response: [{ id, programId, dayIndex, durationSeconds, ltkEarned, verified, createdAt }]
+
+### Yoga
+POST /api/littyfit/yoga/complete
+  Body: { flowId, durationSeconds }
+  Response: { ok: true, ltkEarned: 25 }
+
+GET /api/littyfit/yoga/history
+  Response: [{ id, flowId, durationSeconds, ltkEarned, createdAt }]
+
+### Nutrition
+GET  /api/littyfit/nutrition?date=YYYY-MM-DD
+  Response: { date, calories, protein, carbs, fats, hydrationGlasses, hydrationGoalMet, ltkEarned } | null
+
+POST /api/littyfit/nutrition
+  Body: { date?, calories, protein, carbs, fats, hydrationGlasses }
+  Response: { ...log, newLtkEarned: 10 if hydration goal just hit today }
+
+### Progress
+GET  /api/littyfit/progress
+  Response: [{ date, weightLbs, energyLevel (1-5), mood (1-5), notes }]
+
+POST /api/littyfit/progress
+  Body: { date?, weightLbs?, energyLevel?, mood?, notes? }
+  Response: { ok: true }
+
+### Stats
+GET /api/littyfit/stats
+  Response: { totalWorkouts, totalYoga, totalLtk, streak, profile }
+
+### LTK
+GET /api/ltk/balance/:userId     → { balance: number, userId: string }
+GET /api/ltk/history/:userId     → [{ actionType, points, description, createdAt }]
+
+---
+
+## LTK Earn Rates
+Workout — full session (verified): +50 LTK
+Workout — honor system:            +20 LTK
+Yoga session completed:            +25 LTK
+Daily hydration goal (8 glasses):  +10 LTK
+
+Always show a celebration modal with each completion.
+
+---
+
+## Static Data
+
+Copy the file client/src/data/littyfit.ts from the Littyverse project into your Expo project as data/littyfit.ts. All workout programs, yoga flows, and diet plans live here — do not make API calls for this content.
+
+Programs (10): beginner-reset, shred-mode, built-different, strength-muscle, fat-loss, home-workout, gym-workout, core-mobility, yoga-flow, recovery-stretch
+Yoga Flows (6): beginner-yoga, morning-flow, stress-relief, flexibility-flow, recovery-yoga, sleep-unwind
+Diet Plans (6): fat-loss, lean-muscle, balanced, high-protein, budget-meals, clean-eating
+Quotes array: LITTY_QUOTES — rotate randomly on Home screen
+
+---
+
+## Auth Flow
+
+App launches
+→ Read token from SecureStore
+→ No token? Show LoginScreen
+→ Token exists? GET /api/auth/mobile-me
+  → 401 (expired)? Delete token → Show LoginScreen
+  → 200 (valid)? GET /api/littyfit/profile
+    → null? Show OnboardingScreen → POST /api/littyfit/profile → Home
+    → exists? Show Home tab
+
+---
+
+## AuthContext — create this in context/AuthContext.tsx
+
+import { createContext, useContext, useEffect, useState } from 'react';
+import * as SecureStore from 'expo-secure-store';
+import { apiFetch } from '../lib/api';
+
+const AuthContext = createContext({ user: null, token: null, login: async () => {}, logout: async () => {}, isLoading: true });
+
+export function AuthProvider({ children }) {
+  const [user, setUser] = useState(null);
+  const [token, setToken] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    (async () => {
+      const stored = await SecureStore.getItemAsync('ltk_token');
+      if (stored) {
+        const res = await apiFetch('/api/auth/mobile-me');
+        if (res.ok) { setUser(await res.json()); setToken(stored); }
+        else await SecureStore.deleteItemAsync('ltk_token');
+      }
+      setIsLoading(false);
+    })();
+  }, []);
+
+  const login = async (identifier, password) => {
+    const res = await apiFetch('/api/auth/mobile-login', {
+      method: 'POST', body: JSON.stringify({ identifier, password }),
+    });
+    if (!res.ok) throw new Error((await res.json()).message);
+    const { token: t, user: u } = await res.json();
+    await SecureStore.setItemAsync('ltk_token', t);
+    setToken(t); setUser(u);
+  };
+
+  const logout = async () => {
+    await SecureStore.deleteItemAsync('ltk_token');
+    setToken(null); setUser(null);
+  };
+
+  return <AuthContext.Provider value={{ user, token, login, logout, isLoading }}>{children}</AuthContext.Provider>;
+}
+
+export const useAuth = () => useContext(AuthContext);
+
+Wrap your root _layout.tsx with AuthProvider and QueryClientProvider.
+
+---
+
+## app.json config
+
+{
+  "expo": {
+    "name": "LittyFit",
+    "slug": "littyfit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/splash.png", "backgroundColor": "#0a0a0f" },
+    "ios": { "bundleIdentifier": "com.littyverse.littyfit", "supportsTablet": false },
+    "android": { "package": "com.littyverse.littyfit", "targetSdkVersion": 34 },
+    "extra": { "eas": { "projectId": "YOUR_EAS_PROJECT_ID" } }
+  }
+}
+
+---
+
+## App Store Requirements
+
+Both stores:
+- App name: LittyFit
+- Category: Health & Fitness
+- Privacy policy URL required
+- Age rating: 4+
+
+Google Play:
+- Build: eas build --platform android
+- Upload .aab to Google Play Console
+- Short description (80 chars): "Train. Eat. Earn Littkoin. Your complete fitness app."
+
+Apple App Store:
+- Build: eas build --platform ios (use Replit Expo Launch)
+- Requires Apple Developer Program ($99/year)
+- Screenshots for 6.7", 6.5", 5.5" iPhone sizes
+
+---
+
+## Build Order
+
+1. Set up Expo project with TypeScript template
+2. Install packages (expo-secure-store, expo-haptics, @tanstack/react-query, react-native-reanimated)
+3. Create lib/api.ts with apiFetch helper
+4. Create context/AuthContext.tsx (code above)
+5. Copy data/littyfit.ts (all static content)
+6. Build auth screens (Login, Register)
+7. Build Onboarding (5-step wizard)
+8. Build bottom tab navigator with 5 tabs
+9. Build each tab screen (Home, Workouts, Yoga, Nutrition, Profile)
+10. Build session screens (WorkoutSession, YogaSession)
+11. Build Progress screen
+12. Add LTK reward modal component (reusable, shows on every completion)
+13. Add haptics to all completion events
+14. Set EXPO_PUBLIC_API_URL in .env
+15. Test all API connections end to end
+16. Configure app.json for both stores
+17. Set up EAS: npm install -g eas-cli && eas login && eas build:configure
+
+---
+
+## What "Flawless" Looks Like
+
+- Users log in with their existing Littyverse username and password — same account, same LTK balance
+- LTK earned in the mobile app shows up immediately on the Littyverse web platform (shared database)
+- All reward animations are satisfying: large number counting up, amber glow, haptic pulse
+- No hardcoded URLs — everything uses the env var
+- Tokens persist for 90 days, no re-login needed
+- App looks like it belongs to Littyverse: dark, neon purple/amber, premium feel

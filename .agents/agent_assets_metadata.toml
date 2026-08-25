@@ -1,0 +1,38 @@
+uploads = []
+
+[[generated]]
+id = "hQAgZAmmxUsRlFjsLaoV-"
+uri = "file://artifacts/littyfit/assets/images/icon.png"
+type = "image"
+title = "littyfit app icon"
+
+[[outputs]]
+id = "9dErQeHWRqdDmjMbx9p-D"
+uri = "file://littyfit-expo.tar.gz"
+type = "unspecified"
+title = "LittyFit — Expo Source (littyfit-expo.tar.gz)"
+
+[[outputs]]
+id = "I-ZbqetC7xZFpdU-1dLvy"
+uri = "file://LittyFit-full.zip"
+type = "unspecified"
+title = "LittyFit — Full Repo, pnpm-fixed (.zip)"
+
+[[outputs]]
+id = "KM0-TyV1Wob23jhZLdY7O"
+uri = "file://LittyFit-Android.zip"
+type = "unspecified"
+title = "LittyFit — Android Native Build (.zip)"
+
+[[outputs]]
+id = "fi64eDj5UlYPb1pymsRfk"
+uri = "file://LittyFit-Android.tar.gz"
+type = "unspecified"
+title = "LittyFit-Android.tar.gz — node-free build, v2"
+
+[[outputs]]
+id = "D4mz8XkDM6WKHYFXA0piq"
+uri = "file://LittyFit-evaluation-source.tar.gz"
+type = "unspecified"
+title = "LittyFit evaluation source"
+description = "Complete LittyFit project source for GPT evaluation, including the Expo mobile app, API server, shared libraries, configuration, and project documentation. Generated dependencies, caches, compiled bundles, and old backup archives are excluded."

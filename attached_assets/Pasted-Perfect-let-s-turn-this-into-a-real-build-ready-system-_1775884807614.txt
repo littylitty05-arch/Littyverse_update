@@ -1,0 +1,2540 @@
+Perfect—let’s turn this into a real build-ready system you can drop straight into your app 👇
+
+
+---
+
+🧠 LIFE OS — BASE BLUEPRINT (APP CORE SYSTEM)
+
+This is the mandatory starting layer for every user.
+
+Not optional. Not skippable.
+This is what separates your app from everything else.
+
+
+---
+
+⚙️ APP STRUCTURE (TOP NAV)
+
+Life OS
+
+Base Blueprint (default landing)
+
+Fuel
+
+Train
+
+Recover
+
+Focus
+
+Longevity
+
+Advanced
+
+
+
+---
+
+🧬 BASE BLUEPRINT (HOME DASHBOARD)
+
+This is what users see every day.
+
+🔥 Daily Core Metrics (Simple + Addictive)
+
+Energy Score (1–100)
+
+Recovery Score
+
+Sleep Score
+
+Consistency %
+
+Longevity Trend (⬆️⬇️)
+
+
+
+---
+
+📊 Daily Non-Negotiables (Check System)
+
+Users must complete these:
+
+Sleep: 7–9 hrs
+
+Water: target based on weight
+
+Movement: steps or activity
+
+Training (if scheduled day)
+
+Nutrition compliance
+
+Mental reset (low stress / focus block)
+
+
+👉 This creates streaks + gamification
+
+
+---
+
+🧠 ONBOARDING FLOW (CRITICAL)
+
+When user joins:
+
+Step 1: Baseline Scan
+
+Age
+
+Height / Weight
+
+Sleep hours
+
+Activity level
+
+Stress level
+
+Goal (muscle / fat loss / energy / longevity)
+
+
+
+---
+
+Step 2: System Generates:
+
+Daily routine
+
+Weekly training minimum
+
+Hydration target
+
+Sleep target
+
+Nutrition structure
+
+
+👉 Instant “you now have a system” moment
+
+
+---
+
+🧱 CORE MODULES (DETAILED)
+
+🍽️ Fuel
+
+Meal timing structure
+
+Protein targets
+
+Clean vs processed tracking
+
+Optional fasting windows (ties to Autophagy)
+
+
+
+---
+
+🏋️ Train
+
+Strength plan (3–5x/week default)
+
+Cardio tracking (boxing fits here perfectly)
+
+Progressive overload tracking
+
+Prevents Sarcopenia
+
+
+
+---
+
+🛌 Recover
+
+Sleep tracking
+
+Rest day enforcement
+
+Nervous system reset
+
+Stress reduction tools
+
+
+
+---
+
+🧠 Focus
+
+Deep work timer
+
+Dopamine control (limit distractions)
+
+Mental clarity tracking
+
+
+
+---
+
+🧬 Longevity
+
+Tracks behaviors tied to aging
+
+Displays:
+
+inflammation risk
+
+metabolic health trends
+
+
+Built around:
+
+Caloric restriction
+
+recovery
+
+consistency
+
+
+
+
+---
+
+🤖 PROTOCOL ENGINE (THE SECRET SAUCE)
+
+This is what makes your app elite.
+
+The system adapts DAILY:
+
+If user:
+
+sleeps bad → reduces training intensity
+
+skips meals → adjusts nutrition target
+
+trains hard → boosts recovery protocol
+
+
+👉 It’s a living system, not static tracking
+
+
+---
+
+📈 LEVEL SYSTEM (HOOK)
+
+Users level up based on consistency:
+
+Level 1: Base Activated
+
+Level 5: Stable Routine
+
+Level 10: Optimized Human
+
+Level 20: Elite Performance
+
+Level 50: Longevity Master
+
+
+
+---
+
+💰 MONETIZATION LAYERS
+
+Once base system is free, you stack:
+
+Free
+
+Base Blueprint
+
+Basic tracking
+
+Daily system
+
+
+Paid (Pro)
+
+Advanced protocols
+
+Custom meal plans
+
+AI coaching
+
+Supplement stacks (ties into your brand)
+
+Performance analytics
+
+
+
+---
+
+🧬 FUTURE EXPANSION (THIS IS WHERE YOU WIN BIG)
+
+Later plug in:
+
+Wearables (Apple Watch, Whoop)
+
+Bloodwork integration
+
+Biological age tracking
+
+AI health assistant (LITTY as the guide)
+
+Supplement store (your Litty Performance line)
+
+Creator mode (optimize energy + output)
+
+
+
+---
+
+🚀 POSITIONING (THIS IS THE DIFFERENCE)
+
+Every other app says:
+
+“Lose weight”
+
+“Track calories”
+
+
+Your app says:
+
+“Build the strongest, smartest, longest-lasting version of yourself.”
+
+
+---
+
+💡 FINAL POWER MOVE
+
+Make it so:
+
+You CANNOT unlock advanced features
+until you stabilize your Base Blueprint.
+
+👉 This forces discipline
+👉 Builds real results
+👉 Creates addictive progression
+
+
+---
+
+If you want next step, I can:
+
+design the exact UI screens (like wireframes)
+
+or generate a Manus AI build prompt so it actually starts coding this system into your app immediately
+
+
+Just say the word.
+
+Locked in.
+
+That should be the default operating system of the app, not some optional side tab. Every user starts from the same core human-performance foundation, then branches into custom goals after that.
+
+Here’s the structure I’d make the base blueprint follow:
+
+Level 1: Foundation
+
+sleep
+
+hydration
+
+nutrition
+
+movement
+
+recovery
+
+stress control
+
+
+Level 2: Body Systems
+
+metabolism
+
+strength
+
+cardio
+
+mobility
+
+hormone support
+
+inflammation control
+
+
+Level 3: Longevity Tracking
+
+biological age direction
+
+consistency score
+
+recovery score
+
+energy score
+
+sleep debt
+
+habit streaks
+
+body composition trends
+
+
+Level 4: Protocol Engine Every user begins with a required baseline protocol:
+
+morning routine
+
+meal structure
+
+training minimums
+
+recovery minimums
+
+evening shutdown
+
+weekly reset
+
+
+Level 5: Personal Pathways After the base is established, users can branch into:
+
+fat loss
+
+muscle gain
+
+athletic performance
+
+anti-aging
+
+mental clarity
+
+stress resilience
+
+high-output creator mode
+
+executive / founder mode
+
+
+So the app philosophy becomes:
+
+Everybody starts with the longevity blueprint.
+Then the system adapts to the mission.
+
+That is strong because it turns the app from “just another health app” into a life infrastructure system.
+
+A clean way to phrase it inside the product:
+
+Start with the Human Base Protocol
+Build:
+
+energy
+
+strength
+
+resilience
+
+focus
+
+longevity
+
+
+Then unlock specialized tracks.
+
+You could even make this the app’s identity:
+
+This app does not begin with weight loss.
+It begins with life optimization.
+
+That hits harder.
+
+A strong internal framework name could be:
+
+Core Longevity Protocol
+
+Human Base System
+
+Life OS
+
+Base Blueprint
+
+Prime Protocol
+
+LITTY LifeStack
+
+Longevity Engine
+
+Healthspan Core
+
+
+My strongest pick for branding is:
+
+Life OS
+with a built-in module called
+Base Blueprint
+
+So inside the app it feels like:
+
+Life OS
+
+Base Blueprint
+
+Fuel
+
+Train
+
+Recover
+
+Focus
+
+Longevity
+
+Advanced Tracks
+
+
+
+That’s scalable and clean.
+
+Here’s the real power move: make onboarding mandatory around this.
+
+Every new user answers:
+
+How many hours do you sleep?
+
+How often do you train?
+
+Energy level?
+
+Stress level?
+
+Water intake?
+
+Nutrition quality?
+
+Current goal?
+
+
+Then the app instantly generates their first:
+
+daily routine
+
+weekly baseline
+
+recovery target
+
+longevity score direction
+
+
+That means the app is not passive. It prescribes a better life structure from day one.
+
+For your ecosystem, this can become the non-negotiable starting layer for everybody. Fitness people, creators, entrepreneurs, everyday users, all of them.
+
+And later you can stack on:
+
+supplements
+
+labs
+
+AI coaching
+
+meal plans
+
+wearable integrations
+
+biological age tracking
+
+custom protocols
+
+
+But the base stays the same: build the human first.
+
+I can turn this into a full app feature architecture next, with tabs, onboarding flow, dashboard modules, and monetization layers.
+Bet. Here’s the final power move version shaped for Replit build execution and UI direction so it feels premium, addictive, and hard to copy.
+
+Core idea
+
+This is not a fitness app.
+
+This is a Life OS app where every user is forced through a Base Blueprint first: sleep, hydration, nutrition, movement, recovery, focus, longevity.
+
+Advanced features stay locked until the base is stable.
+
+That’s the flex.
+
+
+---
+
+Replit build brief
+
+Use this as your build spec inside Replit or for an AI coding agent.
+
+Build a premium mobile-first web app called "Life OS".
+
+MAIN PRODUCT CONCEPT
+Life OS is a structured life-optimization app. Every user must begin with a required onboarding and complete the Base Blueprint system before accessing advanced tracks.
+
+The Base Blueprint is the mandatory foundation for:
+- sleep
+- hydration
+- nutrition
+- movement
+- training
+- recovery
+- focus
+- longevity
+
+This app should feel like a luxury tech performance operating system, not a generic fitness tracker.
+
+DESIGN STYLE
+- futuristic luxury UI
+- dark mode by default
+- black / graphite background
+- electric blue and violet glow accents
+- glassmorphism cards
+- subtle neon gradients
+- smooth transitions
+- rounded corners
+- premium dashboard feel
+- mobile-first design
+- clean typography
+- high-end founder / athlete / elite performance aesthetic
+
+TECH STACK
+- React
+- Next.js or Vite React
+- Tailwind CSS
+- Firebase or Supabase for auth and user data
+- chart components for trend tracking
+- local notifications structure ready
+- modular architecture for future wearable and supplement integrations
+
+APP STRUCTURE
+Top navigation tabs:
+1. Base Blueprint
+2. Fuel
+3. Train
+4. Recover
+5. Focus
+6. Longevity
+7. Advanced
+
+ONBOARDING FLOW
+Users cannot skip onboarding.
+
+Step 1: Welcome screen
+- bold headline introducing Life OS
+- subheadline: build the strongest, sharpest, longest-lasting version of yourself
+- CTA: Begin Base Blueprint
+
+Step 2: Baseline intake form
+Collect:
+- age
+- sex
+- height
+- weight
+- current activity level
+- average sleep hours
+- stress level
+- hydration habits
+- training frequency
+- primary goal:
+  - fat loss
+  - muscle gain
+  - longevity
+  - energy
+  - focus
+  - athletic performance
+
+Step 3: System analysis screen
+Generate:
+- daily hydration target
+- sleep target
+- weekly movement target
+- weekly training minimum
+- nutrition compliance target
+- recovery priority
+- starting longevity score
+
+Step 4: Base Blueprint activated screen
+Display:
+- Energy Score
+- Recovery Score
+- Sleep Score
+- Consistency Score
+- Longevity Trend
+
+HOME SCREEN: BASE BLUEPRINT DASHBOARD
+This is the default landing page.
+
+Include:
+- hero card with “Today’s System”
+- daily progress ring
+- energy score card
+- recovery score card
+- sleep score card
+- longevity trend card
+- streak counter
+- compliance percentage
+
+DAILY NON-NEGOTIABLES CHECKLIST
+Display as interactive cards with completion toggles:
+- sleep target met
+- hydration target met
+- movement completed
+- training completed if scheduled
+- nutrition compliance hit
+- recovery action completed
+- focus block completed
+
+Gamify with:
+- streaks
+- level progression
+- consistency points
+- visual glow when all daily core tasks are complete
+
+LEVEL SYSTEM
+Create user levels based on consistency:
+- Level 1: Base Activated
+- Level 5: Stable Routine
+- Level 10: Optimized Human
+- Level 20: Elite Performance
+- Level 50: Longevity Master
+
+LOCK SYSTEM
+The Advanced tab must remain locked until users reach a defined consistency threshold.
+Example unlock conditions:
+- 14 days completed
+- 80 percent consistency
+- minimum sleep compliance
+- minimum hydration compliance
+- minimum movement compliance
+
+When locked, show premium lock panel with message:
+“Stabilize your foundation to unlock higher performance systems.”
+
+FUEL SCREEN
+- protein target
+- meal timing
+- daily nutrition compliance
+- fasting window option
+- simple food quality scoring
+- hydration tracker
+
+TRAIN SCREEN
+- weekly strength target
+- cardio target
+- mobility target
+- completed sessions
+- training readiness indicator
+
+RECOVER SCREEN
+- sleep duration
+- sleep consistency
+- rest day reminders
+- breathwork/reset module
+- soreness / fatigue input
+- recovery recommendations
+
+FOCUS SCREEN
+- deep work timer
+- distraction tracking
+- dopamine reset mode
+- daily clarity score
+
+LONGEVITY SCREEN
+- longevity score trend
+- inflammation risk estimate
+- recovery trend
+- sleep debt
+- metabolic consistency indicators
+- simple educational cards about healthspan
+
+ADVANCED SCREEN
+Locked at first.
+Later modules can include:
+- AI coaching
+- bloodwork insights
+- wearable integrations
+- supplement recommendations
+- custom protocols
+- biological age tracking
+
+UI REQUIREMENTS
+- beautiful animated dashboard
+- smooth hover/tap states
+- glowing progress rings
+- premium card stacking
+- clean charts
+- mobile bottom navigation
+- elegant lock screen for advanced features
+- polished onboarding flow
+- no clutter
+- make it look investor-ready and app-store ready
+
+FINAL POWER FEATURE
+When a user completes every daily non-negotiable, trigger a full-screen animated state called:
+“Blueprint Complete”
+Include:
+- subtle glow animation
+- consistency reward points
+- streak increase
+- message:
+  “Foundation secured. Performance unlocked.”
+
+Make this feel satisfying and addictive.
+
+OUTPUT
+Build the homepage, onboarding flow, core dashboard, and all nav screens with realistic sample data and polished UI.
+
+UI structure
+
+Here’s the cleanest screen map.
+
+1. Splash screen
+
+Big logo. Dark luxury background. Tagline: Build the human first.
+
+Button: Enter Life OS
+
+2. Welcome / onboarding intro
+
+Headline: Your body is the base system. Text: Sleep, fuel, train, recover, focus, and longevity come first.
+
+3. Baseline scan
+
+Simple stacked cards with sliders and buttons. Should feel like a performance diagnostic, not a boring form.
+
+4. System generated screen
+
+This is where the app feels smart.
+
+Show:
+
+Sleep Target: 8h
+
+Water Target: 3.2L
+
+Movement Goal: 8,000
+
+Training Minimum: 4 sessions
+
+Recovery Priority: High
+
+Starting Longevity Trend: Neutral
+
+
+Button: Activate Blueprint
+
+5. Base Blueprint dashboard
+
+This is the money screen.
+
+Top section:
+
+greeting
+
+current level
+
+streak
+
+daily completion ring
+
+
+Middle section: 4 glowing stat cards
+
+Energy
+
+Recovery
+
+Sleep
+
+Longevity
+
+
+Bottom section: daily checklist cards
+
+Then: progress bar toward unlocking Advanced
+
+6. Locked advanced screen
+
+This needs attitude.
+
+A frosted glass lock card with:
+
+Advanced Systems Locked Stabilize your base for 14 days and maintain 80% consistency to unlock higher-performance protocols.
+
+That makes discipline feel elite.
+
+
+---
+
+Final power move
+
+The strongest feature is this:
+
+Blueprint Gatekeeping
+
+Do not let users fully roam the app on day one.
+
+Make them earn it.
+
+That means:
+
+Advanced tab locked
+
+custom plans locked
+
+AI coach limited
+
+special insights locked
+
+
+Until they prove they can handle the base.
+
+That instantly changes the app from a tracker into a structured transformation system.
+
+And here’s the killer psychological loop:
+
+Most apps reward curiosity.
+Your app rewards discipline.
+
+That’s hard.
+
+
+---
+
+Extra power move for UI
+
+Add a Foundation Stability Meter on the dashboard.
+
+It combines:
+
+sleep compliance
+
+hydration compliance
+
+movement consistency
+
+nutrition consistency
+
+recovery actions
+
+
+When it fills, it changes the whole app state:
+
+brighter glow
+
+cleaner aura
+
+locked features begin unlocking
+
+“System Stability Rising” animation
+
+
+So the interface itself feels like the user is evolving.
+
+
+---
+
+Best product language
+
+Use these exact phrases across the app:
+
+Base Blueprint
+
+Life OS
+
+Foundation Stability
+
+Daily Non-Negotiables
+
+Blueprint Complete
+
+Performance Locked In
+
+Advanced Systems
+
+Longevity Trend
+
+Human Base Protocol
+
+
+These sound branded and scalable.
+
+
+---
+
+Monetization angle
+
+Free:
+
+onboarding
+
+base dashboard
+
+checklist
+
+basic scores
+
+streak system
+
+
+Pro:
+
+advanced analytics
+
+AI coach
+
+personalized protocols
+
+recovery insights
+
+supplement stack guidance
+
+biological age tools later
+
+
+That gives you a clean free-to-paid ladder.
+
+
+---
+
+Smart future add-on
+
+Later, connect this directly to your supplement line.
+
+Example: if sleep score drops and recovery score stays low, the app can eventually recommend:
+
+magnesium glycinate
+
+hydration formula
+
+recovery stack
+
+
+That makes the store feel native, not forced.
+
+
+---
+
+Next move should be a single-file Replit prompt for a polished MVP landing page + app dashboard so it can start generating the actual interface fast.
+Build a premium mobile-first web app called "Life OS".
+
+MAIN PRODUCT CONCEPT
+Life OS is a structured life-optimization app. Every user must begin with a required onboarding and complete the Base Blueprint system before accessing advanced tracks.
+
+The Base Blueprint is the mandatory foundation for:
+- sleep
+- hydration
+- nutrition
+- movement
+- training
+- recovery
+- focus
+- longevity
+
+This app should feel like a luxury tech performance operating system, not a generic fitness tracker.
+
+DESIGN STYLE
+- futuristic luxury UI
+- dark mode by default
+- black / graphite background
+- electric blue and violet glow accents
+- glassmorphism cards
+- subtle neon gradients
+- smooth transitions
+- rounded corners
+- premium dashboard feel
+- mobile-first design
+- clean typography
+- high-end founder / athlete / elite performance aesthetic
+
+TECH STACK
+- React
+- Next.js or Vite React
+- Tailwind CSS
+- Firebase or Supabase for auth and user data
+- chart components for trend tracking
+- local notifications structure ready
+- modular architecture for future wearable and supplement integrations
+
+APP STRUCTURE
+Top navigation tabs:
+1. Base Blueprint
+2. Fuel
+3. Train
+4. Recover
+5. Focus
+6. Longevity
+7. Advanced
+
+ONBOARDING FLOW
+Users cannot skip onboarding.
+
+Step 1: Welcome screen
+- bold headline introducing Life OS
+- subheadline: build the strongest, sharpest, longest-lasting version of yourself
+- CTA: Begin Base Blueprint
+
+Step 2: Baseline intake form
+Collect:
+- age
+- sex
+- height
+- weight
+- current activity level
+- average sleep hours
+- stress level
+- hydration habits
+- training frequency
+- primary goal:
+  - fat loss
+  - muscle gain
+  - longevity
+  - energy
+  - focus
+  - athletic performance
+
+Step 3: System analysis screen
+Generate:
+- daily hydration target
+- sleep target
+- weekly movement target
+- weekly training minimum
+- nutrition compliance target
+- recovery priority
+- starting longevity score
+
+Step 4: Base Blueprint activated screen
+Display:
+- Energy Score
+- Recovery Score
+- Sleep Score
+- Consistency Score
+- Longevity Trend
+
+HOME SCREEN: BASE BLUEPRINT DASHBOARD
+This is the default landing page.
+
+Include:
+- hero card with “Today’s System”
+- daily progress ring
+- energy score card
+- recovery score card
+- sleep score card
+- longevity trend card
+- streak counter
+- compliance percentage
+
+DAILY NON-NEGOTIABLES CHECKLIST
+Display as interactive cards with completion toggles:
+- sleep target met
+- hydration target met
+- movement completed
+- training completed if scheduled
+- nutrition compliance hit
+- recovery action completed
+- focus block completed
+
+Gamify with:
+- streaks
+- level progression
+- consistency points
+- visual glow when all daily core tasks are complete
+
+LEVEL SYSTEM
+Create user levels based on consistency:
+- Level 1: Base Activated
+- Level 5: Stable Routine
+- Level 10: Optimized Human
+- Level 20: Elite Performance
+- Level 50: Longevity Master
+
+LOCK SYSTEM
+The Advanced tab must remain locked until users reach a defined consistency threshold.
+Example unlock conditions:
+- 14 days completed
+- 80 percent consistency
+- minimum sleep compliance
+- minimum hydration compliance
+- minimum movement compliance
+
+When locked, show premium lock panel with message:
+“Stabilize your foundation to unlock higher performance systems.”
+
+FUEL SCREEN
+- protein target
+- meal timing
+- daily nutrition compliance
+- fasting window option
+- simple food quality scoring
+- hydration tracker
+
+TRAIN SCREEN
+- weekly strength target
+- cardio target
+- mobility target
+- completed sessions
+- training readiness indicator
+
+RECOVER SCREEN
+- sleep duration
+- sleep consistency
+- rest day reminders
+- breathwork/reset module
+- soreness / fatigue input
+- recovery recommendations
+
+FOCUS SCREEN
+- deep work timer
+- distraction tracking
+- dopamine reset mode
+- daily clarity score
+
+LONGEVITY SCREEN
+- longevity score trend
+- inflammation risk estimate
+- recovery trend
+- sleep debt
+- metabolic consistency indicators
+- simple educational cards about healthspan
+
+ADVANCED SCREEN
+Locked at first.
+Later modules can include:
+- AI coaching
+- bloodwork insights
+- wearable integrations
+- supplement recommendations
+- custom protocols
+- biological age tracking
+
+UI REQUIREMENTS
+- beautiful animated dashboard
+- smooth hover/tap states
+- glowing progress rings
+- premium card stacking
+- clean charts
+- mobile bottom navigation
+- elegant lock screen for advanced features
+- polished onboarding flow
+- no clutter
+- make it look investor-ready and app-store ready
+
+FINAL POWER FEATURE
+When a user completes every daily non-negotiable, trigger a full-screen animated state called:
+“Blueprint Complete”
+Include:
+- subtle glow animation
+- consistency reward points
+- streak increase
+- message:
+  “Foundation secured. Performance unlocked.”
+
+Make this feel satisfying and addictive.
+
+OUTPUT
+Build the homepage, onboarding flow, core dashboard, and all nav screens with realistic sample data and polished UI.
+
+Build a premium mobile-first web app called "Life OS".
+
+This is NOT a basic fitness tracker. It is a structured life optimization system where every user must complete a required “Base Blueprint” before unlocking advanced features.
+
+Use:
+- React (Vite)
+- Tailwind CSS
+- Framer Motion for animations
+- Zustand or simple state management
+- No backend required yet (use mock data)
+
+-----------------------------------
+
+DESIGN STYLE
+
+- Dark luxury UI
+- Black / graphite background
+- Neon blue + violet glow accents
+- Glassmorphism cards
+- Smooth animations
+- Rounded corners (2xl)
+- Clean spacing
+- Premium app-store level UI
+- Mobile-first layout (iPhone size)
+
+-----------------------------------
+
+APP STRUCTURE
+
+Top navigation (bottom mobile nav):
+- Base
+- Fuel
+- Train
+- Recover
+- Focus
+- Longevity
+- Advanced (locked)
+
+-----------------------------------
+
+SCREENS TO BUILD
+
+1. LANDING PAGE
+
+- Full-screen hero
+- Title: Life OS
+- Subtitle: Build the strongest, sharpest, longest-lasting version of yourself
+- Background gradient glow
+- CTA button: “Enter Life OS”
+
+Clicking CTA → onboarding
+
+-----------------------------------
+
+2. ONBOARDING FLOW
+
+Step 1: Welcome screen
+- Title: Your body is the base system
+- Button: Begin Base Blueprint
+
+Step 2: Baseline Scan Form (card UI)
+Collect:
+- age (number input)
+- weight
+- height
+- sleep hours (slider)
+- activity level (buttons)
+- stress level (slider)
+- goal (select buttons)
+
+Step 3: System Generated Results
+Display cards:
+- Sleep Target
+- Hydration Target
+- Movement Goal
+- Training Minimum
+- Recovery Priority
+
+Button: Activate Blueprint
+
+-----------------------------------
+
+3. BASE BLUEPRINT DASHBOARD (MAIN SCREEN)
+
+Top:
+- Greeting (ex: “System Active”)
+- Level (Level 1: Base Activated)
+- Streak counter
+
+Center:
+- Large circular progress ring (daily completion)
+
+Stats Grid (2x2 cards):
+- Energy Score
+- Recovery Score
+- Sleep Score
+- Longevity Trend
+
+Each card:
+- glass effect
+- glowing border
+- animated number
+
+-----------------------------------
+
+4. DAILY NON-NEGOTIABLES
+
+Checklist cards:
+
+- Sleep Complete
+- Hydration Complete
+- Movement Complete
+- Training Complete
+- Nutrition On Track
+- Recovery Action
+- Focus Block
+
+Each item:
+- toggle button
+- smooth animation when checked
+- glow effect when completed
+
+If ALL completed:
+Trigger full screen overlay:
+
+“Blueprint Complete”
++ glow animation
++ streak increase
+
+-----------------------------------
+
+5. FOUNDATION STABILITY BAR
+
+Below checklist:
+
+- progress bar labeled “Foundation Stability”
+- fills based on checklist completion %
+- animated gradient fill
+
+-----------------------------------
+
+6. ADVANCED TAB (LOCKED)
+
+Show locked UI screen:
+
+- frosted glass card
+- lock icon
+- message:
+
+“Advanced Systems Locked  
+Stabilize your foundation to unlock higher performance protocols.”
+
+Show requirements:
+- 14 days completed
+- 80% consistency
+
+-----------------------------------
+
+7. OTHER TABS (SIMPLE PLACEHOLDERS)
+
+Fuel:
+- hydration progress bar
+- protein target card
+
+Train:
+- weekly sessions counter
+
+Recover:
+- sleep hours + recovery score
+
+Focus:
+- start focus timer button
+
+Longevity:
+- simple trend chart placeholder
+
+-----------------------------------
+
+ANIMATIONS
+
+Use Framer Motion for:
+- screen transitions
+- card hover/tap glow
+- progress ring animation
+- checklist completion
+- blueprint complete overlay
+
+-----------------------------------
+
+EXTRA POLISH
+
+- subtle pulsing glow on active elements
+- smooth scroll
+- sticky bottom nav
+- clean typography
+- no clutter
+- premium feel
+
+-----------------------------------
+
+FINAL GOAL
+
+Produce a clean, working frontend MVP that:
+- looks like a real app
+- feels premium
+- has onboarding → dashboard flow
+- includes Base Blueprint system
+- includes locked Advanced tab
+- includes animations
+
+Make it visually impressive and structured for future expansion.
+Say less—here’s a ready-to-paste Replit AI prompt that will generate your actual working MVP UI (landing + onboarding + dashboard). This is tuned to come out clean, premium, and usable immediately.
+
+
+---
+
+⚡ REPLIT AI BUILD PROMPT (COPY + PASTE)
+
+Build a premium mobile-first web app called "Life OS".
+
+This is NOT a basic fitness tracker. It is a structured life optimization system where every user must complete a required “Base Blueprint” before unlocking advanced features.
+
+Use:
+- React (Vite)
+- Tailwind CSS
+- Framer Motion for animations
+- Zustand or simple state management
+- No backend required yet (use mock data)
+
+-----------------------------------
+
+DESIGN STYLE
+
+- Dark luxury UI
+- Black / graphite background
+- Neon blue + violet glow accents
+- Glassmorphism cards
+- Smooth animations
+- Rounded corners (2xl)
+- Clean spacing
+- Premium app-store level UI
+- Mobile-first layout (iPhone size)
+
+-----------------------------------
+
+APP STRUCTURE
+
+Top navigation (bottom mobile nav):
+- Base
+- Fuel
+- Train
+- Recover
+- Focus
+- Longevity
+- Advanced (locked)
+
+-----------------------------------
+
+SCREENS TO BUILD
+
+1. LANDING PAGE
+
+- Full-screen hero
+- Title: Life OS
+- Subtitle: Build the strongest, sharpest, longest-lasting version of yourself
+- Background gradient glow
+- CTA button: “Enter Life OS”
+
+Clicking CTA → onboarding
+
+-----------------------------------
+
+2. ONBOARDING FLOW
+
+Step 1: Welcome screen
+- Title: Your body is the base system
+- Button: Begin Base Blueprint
+
+Step 2: Baseline Scan Form (card UI)
+Collect:
+- age (number input)
+- weight
+- height
+- sleep hours (slider)
+- activity level (buttons)
+- stress level (slider)
+- goal (select buttons)
+
+Step 3: System Generated Results
+Display cards:
+- Sleep Target
+- Hydration Target
+- Movement Goal
+- Training Minimum
+- Recovery Priority
+
+Button: Activate Blueprint
+
+-----------------------------------
+
+3. BASE BLUEPRINT DASHBOARD (MAIN SCREEN)
+
+Top:
+- Greeting (ex: “System Active”)
+- Level (Level 1: Base Activated)
+- Streak counter
+
+Center:
+- Large circular progress ring (daily completion)
+
+Stats Grid (2x2 cards):
+- Energy Score
+- Recovery Score
+- Sleep Score
+- Longevity Trend
+
+Each card:
+- glass effect
+- glowing border
+- animated number
+
+-----------------------------------
+
+4. DAILY NON-NEGOTIABLES
+
+Checklist cards:
+
+- Sleep Complete
+- Hydration Complete
+- Movement Complete
+- Training Complete
+- Nutrition On Track
+- Recovery Action
+- Focus Block
+
+Each item:
+- toggle button
+- smooth animation when checked
+- glow effect when completed
+
+If ALL completed:
+Trigger full screen overlay:
+
+“Blueprint Complete”
++ glow animation
++ streak increase
+
+-----------------------------------
+
+5. FOUNDATION STABILITY BAR
+
+Below checklist:
+
+- progress bar labeled “Foundation Stability”
+- fills based on checklist completion %
+- animated gradient fill
+
+-----------------------------------
+
+6. ADVANCED TAB (LOCKED)
+
+Show locked UI screen:
+
+- frosted glass card
+- lock icon
+- message:
+
+“Advanced Systems Locked  
+Stabilize your foundation to unlock higher performance protocols.”
+
+Show requirements:
+- 14 days completed
+- 80% consistency
+
+-----------------------------------
+
+7. OTHER TABS (SIMPLE PLACEHOLDERS)
+
+Fuel:
+- hydration progress bar
+- protein target card
+
+Train:
+- weekly sessions counter
+
+Recover:
+- sleep hours + recovery score
+
+Focus:
+- start focus timer button
+
+Longevity:
+- simple trend chart placeholder
+
+-----------------------------------
+
+ANIMATIONS
+
+Use Framer Motion for:
+- screen transitions
+- card hover/tap glow
+- progress ring animation
+- checklist completion
+- blueprint complete overlay
+
+-----------------------------------
+
+EXTRA POLISH
+
+- subtle pulsing glow on active elements
+- smooth scroll
+- sticky bottom nav
+- clean typography
+- no clutter
+- premium feel
+
+-----------------------------------
+
+FINAL GOAL
+
+Produce a clean, working frontend MVP that:
+- looks like a real app
+- feels premium
+- has onboarding → dashboard flow
+- includes Base Blueprint system
+- includes locked Advanced tab
+- includes animations
+
+Make it visually impressive and structured for future expansion.
+
+
+---
+
+🧠 HOW TO USE THIS (FASTEST PATH)
+
+1. Go to Replit
+
+
+2. Create new app → React (Vite)
+
+
+3. Open AI / Ghostwriter
+
+
+4. Paste this entire prompt
+
+
+5. Let it generate
+
+
+6. Run app → tweak styling after
+
+
+
+
+---
+
+🚀 WHAT YOU’LL HAVE AFTER
+
+Real app UI (not just idea)
+
+Onboarding flow
+
+Base Blueprint dashboard
+
+Locked system mechanic
+
+Premium look you can show or build on
+
+
+
+---
+
+💡 NEXT STEP AFTER THIS
+
+Once this loads clean, we can:
+
+add Supabase login + real user data
+
+connect streak persistence
+
+build AI coach (LITTY assistant)
+
+plug in supplement store
+
+prepare APK build
+
+
+
+---
+
+If you want, next I’ll give you:
+
+👉 “Phase 2 Replit prompt” (real backend + user accounts + saving progress)
+
+That’s when it becomes a real product, not just a UI.
+Upgrade the existing "Life OS" React + Vite + Tailwind app into a real MVP with authentication, persistent user data, and a working backend using Supabase.
+
+STACK
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- Zustand for client state
+- Supabase for:
+  - auth
+  - database
+  - row-level security
+- Recharts for charts
+
+GOAL
+Turn the current frontend-only Life OS app into a working product where users can:
+- sign up / log in
+- complete onboarding
+- save their Base Blueprint data
+- track daily non-negotiables
+- keep streaks
+- see Foundation Stability progress
+- preserve locked/unlocked state for Advanced Systems
+
+APP IDENTITY
+Life OS is a premium life-optimization system.
+Every user begins with the Base Blueprint:
+- sleep
+- hydration
+- nutrition
+- movement
+- training
+- recovery
+- focus
+- longevity
+
+Advanced Systems stay locked until users prove consistency.
+
+DESIGN
+Keep existing design language:
+- dark luxury UI
+- neon blue / violet glow
+- graphite background
+- glassmorphism cards
+- rounded corners
+- mobile-first
+- investor-ready polish
+
+-----------------------------------
+AUTH FLOW
+-----------------------------------
+
+Build a full auth flow using Supabase:
+- Sign Up screen
+- Log In screen
+- Forgot Password screen
+- Persist session
+- Redirect authenticated users into app
+- Redirect unauthenticated users to auth
+
+Auth screens should match premium app aesthetic.
+
+Fields:
+Sign Up:
+- email
+- password
+
+Log In:
+- email
+- password
+
+-----------------------------------
+DATABASE SCHEMA
+-----------------------------------
+
+Create Supabase SQL schema and wire app to use it.
+
+TABLE: profiles
+Columns:
+- id uuid primary key references auth.users(id)
+- created_at timestamp default now()
+- email text
+- age integer
+- sex text
+- height text
+- weight text
+- sleep_hours numeric
+- activity_level text
+- stress_level integer
+- hydration_habits text
+- training_frequency integer
+- primary_goal text
+- onboarding_complete boolean default false
+- level integer default 1
+- streak_count integer default 0
+- consistency_score integer default 0
+- foundation_stability integer default 0
+- advanced_unlocked boolean default false
+
+TABLE: daily_checkins
+Columns:
+- id uuid primary key default gen_random_uuid()
+- user_id uuid references profiles(id)
+- date date
+- sleep_complete boolean default false
+- hydration_complete boolean default false
+- movement_complete boolean default false
+- training_complete boolean default false
+- nutrition_complete boolean default false
+- recovery_complete boolean default false
+- focus_complete boolean default false
+- energy_score integer default 50
+- recovery_score integer default 50
+- sleep_score integer default 50
+- longevity_trend integer default 0
+- completion_percent integer default 0
+- created_at timestamp default now()
+
+TABLE: onboarding_plan
+Columns:
+- id uuid primary key default gen_random_uuid()
+- user_id uuid references profiles(id)
+- sleep_target text
+- hydration_target text
+- movement_goal text
+- training_minimum text
+- recovery_priority text
+- nutrition_target text
+- created_at timestamp default now()
+
+Add unique constraint:
+- one daily_checkins row per user per date
+
+-----------------------------------
+ROW LEVEL SECURITY
+-----------------------------------
+
+Enable RLS on all tables.
+
+Policies:
+- users can read only their own profile
+- users can update only their own profile
+- users can insert only their own profile
+- users can read only their own daily_checkins
+- users can insert only their own daily_checkins
+- users can update only their own daily_checkins
+- users can read only their own onboarding_plan
+- users can insert only their own onboarding_plan
+
+Generate the SQL needed for this setup and include it in a clearly labeled file.
+
+-----------------------------------
+ONBOARDING LOGIC
+-----------------------------------
+
+After signup, user must complete onboarding before entering the main dashboard.
+
+Onboarding steps:
+1. Welcome screen
+2. Baseline Scan
+   - age
+   - sex
+   - height
+   - weight
+   - sleep hours
+   - activity level
+   - stress level
+   - hydration habits
+   - training frequency
+   - primary goal
+3. System Generated Results
+   Create starter recommendations from form input:
+   - Sleep Target
+   - Hydration Target
+   - Movement Goal
+   - Training Minimum
+   - Recovery Priority
+   - Nutrition Target
+4. Activate Blueprint
+
+Save onboarding data into:
+- profiles
+- onboarding_plan
+
+Set onboarding_complete = true after activation.
+
+-----------------------------------
+APP STATE + DATA FLOW
+-----------------------------------
+
+Use Zustand or similar for:
+- auth/session state
+- profile state
+- today’s check-in state
+- onboarding state
+
+Load from Supabase on app start.
+
+Create helpers for:
+- get current user profile
+- get today check-in
+- create today check-in if missing
+- update checklist item
+- recalculate completion percent
+- recalculate foundation stability
+- check unlock conditions
+
+-----------------------------------
+BASE BLUEPRINT DASHBOARD
+-----------------------------------
+
+Main dashboard should now use live Supabase data.
+
+Display:
+- greeting
+- current level
+- streak count
+- daily completion ring
+- Energy Score
+- Recovery Score
+- Sleep Score
+- Longevity Trend
+- Foundation Stability progress bar
+
+Checklist must save instantly to Supabase:
+- Sleep Complete
+- Hydration Complete
+- Movement Complete
+- Training Complete
+- Nutrition Complete
+- Recovery Complete
+- Focus Complete
+
+When any item is toggled:
+- update database
+- recalculate completion percent
+- animate UI
+
+Completion percent logic:
+- percent of checklist items completed out of 7
+
+Foundation Stability logic:
+- based on completion percent plus profile consistency score
+- keep simple but believable
+
+-----------------------------------
+STREAK LOGIC
+-----------------------------------
+
+Implement streak system:
+- if user completes all 7 daily non-negotiables for today, mark day complete
+- if yesterday was also complete, increment streak
+- if a day is missed, streak resets
+- streak_count stored in profiles
+
+Show streak prominently.
+
+When all tasks are complete:
+Show full-screen animated overlay:
+“Blueprint Complete”
+“Foundation secured. Performance unlocked.”
+
+Only show once per day.
+
+-----------------------------------
+LEVEL SYSTEM
+-----------------------------------
+
+Levels based on consistency_score:
+- Level 1: Base Activated
+- Level 5: Stable Routine
+- Level 10: Optimized Human
+- Level 20: Elite Performance
+- Level 50: Longevity Master
+
+Use a numeric level for now based on thresholds.
+Auto-update profile level when consistency_score increases.
+
+Example:
+- add consistency points when daily completion hits 100%
+- smaller points for partial completion if desired
+
+-----------------------------------
+ADVANCED SYSTEMS LOCK
+-----------------------------------
+
+The Advanced tab must remain locked until user satisfies:
+- at least 14 completed days
+- at least 80 average consistency score
+- foundation_stability at or above threshold
+
+When locked:
+show premium lock screen with:
+“Advanced Systems Locked”
+“Stabilize your foundation to unlock higher performance protocols.”
+
+When unlocked:
+show placeholder cards for:
+- AI Coaching
+- Biomarker Tracking
+- Custom Protocols
+- Supplement Intelligence
+
+Persist advanced_unlocked in profile.
+
+-----------------------------------
+OTHER TABS
+-----------------------------------
+
+Fuel
+- hydration target from onboarding_plan
+- hydration completion status
+- protein target placeholder
+- meal timing placeholder
+
+Train
+- training minimum from onboarding_plan
+- weekly sessions placeholder
+- readiness placeholder
+
+Recover
+- sleep target
+- recovery score
+- sleep consistency placeholder
+
+Focus
+- focus completion status
+- simple timer UI placeholder
+- clarity card placeholder
+
+Longevity
+- show simple line chart of last 7 check-ins using stored values
+- metrics:
+  - sleep_score
+  - recovery_score
+  - energy_score
+  - completion_percent
+
+-----------------------------------
+COMPONENT ARCHITECTURE
+-----------------------------------
+
+Organize code cleanly:
+- /components
+- /pages
+- /stores
+- /lib
+- /hooks
+- /supabase
+- /types
+
+Suggested components:
+- AuthForm
+- OnboardingWizard
+- ProgressRing
+- StatCard
+- ChecklistCard
+- StabilityBar
+- LockPanel
+- BottomNav
+- BlueprintCompleteOverlay
+
+-----------------------------------
+SUPABASE SETUP
+-----------------------------------
+
+Create:
+- environment variable support for Supabase URL and anon key
+- supabase client file
+- clear setup instructions in README
+- SQL schema file for database + RLS
+
+README should explain:
+1. Create Supabase project
+2. Run SQL schema
+3. Add env vars in Replit
+4. Start app
+
+-----------------------------------
+UX POLISH
+-----------------------------------
+
+Use Framer Motion for:
+- route/screen transitions
+- checklist toggles
+- overlay reveal
+- stat card entrance
+- progress ring animation
+- tab transitions
+
+Keep everything smooth and premium.
+
+-----------------------------------
+ERROR HANDLING
+-----------------------------------
+
+Add graceful loading and error states:
+- auth loading
+- profile loading
+- check-in loading
+- save failure toast or inline message
+
+-----------------------------------
+FINAL OUTPUT
+-----------------------------------
+
+Produce a working MVP with:
+- Supabase auth
+- onboarding persistence
+- live dashboard
+- streak tracking
+- level system
+- advanced lock system
+- charted longevity screen
+- polished premium UI
+- clean, maintainable code
+
+Also include:
+- SQL schema file
+- setup README
+- sample seeded logic where needed
+Upgrade the Life OS app by adding an AI-powered coaching system called “LITTY”.
+
+This system should analyze user data and generate dynamic guidance, recommendations, and notifications.
+
+-----------------------------------
+CORE GOAL
+-----------------------------------
+
+Transform the app from passive tracking → active coaching.
+
+LITTY should:
+- analyze user behavior
+- detect patterns
+- give daily guidance
+- adjust recommendations
+- keep users consistent
+
+-----------------------------------
+AI COACH SYSTEM (LITTY)
+-----------------------------------
+
+Create a new component: LittyCoach
+
+This should appear:
+- at the top of the Base Blueprint dashboard
+- as a floating assistant panel
+- as a daily insight card
+
+-----------------------------------
+LITTY DAILY INSIGHT ENGINE
+-----------------------------------
+
+Based on user data, generate 1–3 daily insights.
+
+Example logic:
+
+IF sleep_score < 60:
+→ “Sleep debt detected. Reduce training intensity today and prioritize recovery.”
+
+IF hydration_complete = false:
+→ “Hydration is below target. Energy output will drop if not corrected.”
+
+IF all tasks complete:
+→ “System stable. You are operating at peak baseline. Maintain this.”
+
+IF streak >= 7:
+→ “Consistency building. You’re entering high-performance territory.”
+
+IF streak resets:
+→ “System disruption detected. Rebuild immediately.”
+
+-----------------------------------
+IMPLEMENTATION
+-----------------------------------
+
+Create a function:
+generateLittyInsights(profile, todayCheckin, history)
+
+Return:
+- message
+- priority level (low, medium, high)
+- category (sleep, training, recovery, nutrition, focus)
+
+Display insights in UI:
+- glowing card
+- icon per category
+- subtle animation
+
+-----------------------------------
+ADAPTIVE PROTOCOL ENGINE
+-----------------------------------
+
+Modify dashboard behavior dynamically.
+
+Examples:
+
+IF sleep_score < 50:
+- reduce suggested training intensity
+- highlight recovery tab
+
+IF recovery_score low:
+- recommend rest day
+
+IF consistency high:
+- suggest unlocking higher output mode
+
+-----------------------------------
+SMART NOTIFICATIONS SYSTEM
+-----------------------------------
+
+Create notification logic (UI only for now, no push yet):
+
+Display in-app alerts:
+
+- “You haven’t completed hydration today”
+- “Focus block missing”
+- “Training window optimal now”
+- “Sleep window approaching”
+
+Use timing simulation logic.
+
+-----------------------------------
+FOCUS MODE UPGRADE
+-----------------------------------
+
+Enhance Focus tab:
+
+- add start/stop deep work timer
+- add session tracker
+- after session:
+  → mark focus_complete true
+  → increase clarity score
+
+-----------------------------------
+HABIT INTELLIGENCE
+-----------------------------------
+
+Track patterns across days:
+
+- missed habits
+- strongest habits
+- average completion %
+
+Display:
+- “Weakest Link” (habit most often missed)
+- “Strongest System” (habit most consistent)
+
+-----------------------------------
+LONGEVITY INTELLIGENCE
+-----------------------------------
+
+In Longevity tab:
+
+Add logic:
+- analyze last 7 days
+- show trend:
+  - improving
+  - stable
+  - declining
+
+Add message:
+- “Trajectory improving. Maintain consistency.”
+- “System unstable. Focus on recovery + sleep.”
+
+-----------------------------------
+LEVEL-UP FEEDBACK SYSTEM
+-----------------------------------
+
+When user levels up:
+
+Show full screen animation:
+
+“LEVEL UP”
++ new title (e.g. “Optimized Human”)
+
+-----------------------------------
+ADVANCED SYSTEM PREVIEW
+-----------------------------------
+
+Even if locked, show teasers:
+
+- AI Coach Pro
+- Biomarker Tracking
+- Supplement Intelligence
+- Custom Protocols
+
+Make them look premium.
+
+-----------------------------------
+UI REQUIREMENTS
+-----------------------------------
+
+- LittyCoach card should feel alive
+- subtle glow
+- animated text reveal
+- category icons
+- smooth transitions
+
+-----------------------------------
+ARCHITECTURE
+-----------------------------------
+
+Create:
+- /ai/littyEngine.ts
+- /components/LittyCoach.tsx
+- /hooks/useLitty.ts
+
+Keep logic modular for future OpenAI integration.
+
+-----------------------------------
+FUTURE-READY
+-----------------------------------
+
+Structure so later you can plug in:
+- real AI API (OpenAI)
+- voice assistant
+- push notifications
+- wearable data
+
+-----------------------------------
+FINAL GOAL
+-----------------------------------
+
+Make the app feel like:
+it is watching, learning, and guiding the user in real time.
+
+Not just tracking.
+
+Make LITTY feel like a real performance coach.
+
+Upgrade Life OS by integrating real AI, voice assistant capabilities, push notifications, and monetization.
+
+-----------------------------------
+1. REAL AI INTEGRATION (OPENAI)
+-----------------------------------
+
+Integrate OpenAI API for dynamic coaching.
+
+Create:
+- /api/litty (server route)
+
+Function:
+- send user data (profile + checkins)
+- generate personalized coaching response
+
+Prompt structure:
+
+“You are LITTY, a high-performance AI coach.
+You guide users to maximize energy, discipline, and longevity.
+You are direct, motivating, and intelligent.
+
+User data:
+- sleep_score
+- recovery_score
+- energy_score
+- completion_percent
+- streak_count
+- weakest habit
+- strongest habit
+
+Generate:
+- 1 main insight
+- 1 actionable instruction
+- tone: confident, focused, elite”
+
+Display response in LittyCoach UI.
+
+-----------------------------------
+2. VOICE ASSISTANT (LITTY VOICE)
+-----------------------------------
+
+Add voice playback using browser TTS or ElevenLabs API.
+
+Features:
+- “Play Insight” button
+- LITTY speaks the daily insight
+- optional toggle: voice on/off
+
+Future-ready for:
+- voice commands
+- conversational AI
+
+-----------------------------------
+3. PUSH NOTIFICATIONS SYSTEM
+-----------------------------------
+
+Use browser notifications (for now).
+
+Trigger conditions:
+
+Morning:
+- “Start your Blueprint. Lock in your foundation.”
+
+Midday:
+- “Hydration or movement missing.”
+
+Evening:
+- “Complete your Blueprint before reset.”
+
+Missed day:
+- “System instability detected. Rebuild now.”
+
+Streak milestone:
+- “7-day streak achieved. Performance rising.”
+
+-----------------------------------
+4. MONETIZATION (PRO SYSTEM)
+-----------------------------------
+
+Create Pro tier.
+
+Free users:
+- base blueprint
+- limited AI insights (1/day)
+- limited history
+
+Pro users:
+- unlimited AI coaching
+- advanced insights
+- weekly reports
+- habit intelligence breakdown
+- future: supplement + biomarker recommendations
+
+-----------------------------------
+STRIPE INTEGRATION
+-----------------------------------
+
+Add Stripe checkout.
+
+Plan:
+- Life OS Pro
+- monthly subscription
+
+Flow:
+- upgrade button in app
+- redirect to Stripe checkout
+- webhook to update user subscription status
+
+Store in profile:
+- is_pro boolean
+
+-----------------------------------
+5. ADVANCED SYSTEMS UNLOCK
+-----------------------------------
+
+Split into:
+
+Advanced (free unlock via consistency)
+Pro (paid unlock)
+
+Advanced:
+- unlocked via discipline
+
+Pro:
+- unlocked via payment
+
+-----------------------------------
+6. WEEKLY REPORT SYSTEM
+-----------------------------------
+
+Generate weekly summary:
+
+- average completion %
+- streak performance
+- strongest habit
+- weakest habit
+- improvement trend
+
+Display as:
+- clean report card UI
+- optional AI summary
+
+-----------------------------------
+7. AI MEMORY (BASIC)
+-----------------------------------
+
+Store last 7–14 days of behavior.
+
+Use for:
+- pattern detection
+- smarter AI responses
+
+-----------------------------------
+8. UI UPGRADES
+-----------------------------------
+
+- LITTY card now dynamic
+- voice button
+- Pro badge
+- upgrade modal
+- weekly report screen
+- notification permission prompt
+
+-----------------------------------
+9. SECURITY
+-----------------------------------
+
+- protect API keys using server routes
+- never expose OpenAI key in frontend
+- validate user before AI call
+
+-----------------------------------
+FINAL GOAL
+-----------------------------------
+
+Transform Life OS into:
+- AI-powered system
+- daily habit enforcer
+- personalized performance coach
+- monetized SaaS product
+
+Make it feel premium, intelligent, and addictive.

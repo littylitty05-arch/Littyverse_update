@@ -1,0 +1,27 @@
+kind = "mobile"
+previewPath = "/littyfit/"
+title = "LittyFit"
+version = "1.0.0"
+id = "artifacts/littyfit"
+router = "expo-domain"
+
+[[integratedSkills]]
+name = "expo"
+version = "1.0.0"
+
+[[services]]
+ensurePreviewReachable = "/status"
+name = "expo"
+paths = [ "/littyfit/" ]
+localPort = 25326
+
+[services.development]
+run = "pnpm --filter @workspace/littyfit run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/littyfit", "run", "build" ]
+run = [ "pnpm", "--filter", "@workspace/littyfit", "run", "serve" ]
+
+[services.env]
+PORT = "25326"
+BASE_PATH = "/littyfit/"

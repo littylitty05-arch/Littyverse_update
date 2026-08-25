@@ -1,0 +1,39 @@
+# EAS build upload rules. This file intentionally takes precedence over
+# .gitignore so the self-contained native Android project is uploaded.
+
+# Dependencies and local Expo state
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Local-only files
+.env
+.env*.local
+.metro-health-check*
+*.orig.*
+*.tsbuildinfo
+.vercel/
+.DS_Store
+
+# Native build output and machine-specific Android state
+android/.gradle/
+android/.idea/
+android/.cxx/
+android/build/
+android/app/build/
+android/local.properties
+android/*.iml
+android/*.hprof
+
+# Never upload local signing material. EAS uses remotely managed credentials.
+android/keystore.properties
+android/app/*.keystore
+android/app/*.jks
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
